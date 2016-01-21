@@ -13,7 +13,7 @@ public class Str {
 		System.out.print(space);
 		System.out.println(lName);
 		System.out.println(fName+space+lName+emptyLine+age);
-		
+		System.out.println(fName+space+lName+emptyLine+age);
 
 	}
 
