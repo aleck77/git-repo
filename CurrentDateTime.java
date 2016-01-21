@@ -8,7 +8,6 @@ public class CurrentDateTime {
 		int hour=minuts/60;
 		int day=hour/24;
 		System.out.println(day+":"+(hour-(day*24))+":"+(minuts-(hour*60))+":"+(second-(minuts*60)));
-		System.out.println(System.currentTimeMillis());
 		
 	}
 
