@@ -10,6 +10,7 @@ public class CurrentDateTime {
 		System.out.println(day+":"+(hour-(day*24))+":"+(minuts-(hour*60))+":"+(second-(minuts*60)));
 		System.out.println(minuts);
 		System.out.println(hour);
+		System.out.println(day);
 		
 	}
 
